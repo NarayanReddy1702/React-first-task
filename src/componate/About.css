@@ -1,0 +1,28 @@
+.abt-sec{
+    width: 100%;
+    height: 80vh;
+}
+.left{
+    width: 50%;
+    height: 100%;
+
+}
+.left img{
+    width: 90%;
+}
+.right{
+    width: 50%;
+    height: 100%;
+    align-items: start;
+    row-gap: 4vh;
+}
+.right h1{
+    font-size: 6.5vh;
+    color: #371c5c;
+    font-family: gill Sans;
+}
+.right p{
+    width: 80%;
+    font-size: 2.7vh;
+    opacity: 0.8;
+}
